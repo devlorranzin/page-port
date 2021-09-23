@@ -54,11 +54,11 @@ html,body{
 }
 
 .content{
-	position: absolute;
+	display: inline-block;
+	position: fixed;
 	left: 35%;
 	width: 80%;
 	height: 100%;
-	overflow-y: auto;
 	padding: 0 3%;
 }
 
